@@ -3,7 +3,7 @@ import os
 
 #restaurantes=['Casa-da-Vó', 'Sashimi']
 #inserir dicionario-em outras linguagens chave valor
-restaurantes=[{'nome':'Forno Mágico','categoria':'Pizza','ativo': True},
+restaurantes=[{'nome':'Forno Mágico','categoria':'Pizzas','ativo': True},
               {'nome':'Rota','categoria':'Rodízio','ativo': False},
               {'nome':'Óleos divinos','categoria':'Pastel','ativo': True},] 
 
